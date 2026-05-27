@@ -13,7 +13,7 @@
   </video>
 </div>
 
-<img width="1890" height="1318" alt="Frame 1116606714 (1)" src="https://github.com/user-attachments/assets/29a8418d-f66f-4d60-958d-4694497c43d7" />
+<img width="1890" height="1318" alt="Frame 1116606714 (1)" src="https://github.com/user-attachments/assets/a8ef1f0a-af93-461f-ab27-b890e17bf6b9" />
 
 ## Features
 
